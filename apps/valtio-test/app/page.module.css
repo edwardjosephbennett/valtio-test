@@ -1,0 +1,20 @@
+.page {
+}
+
+.button {
+  padding: 4px 6px;
+  border-radius: 3px;
+  display: inline-block;
+  background: rgba(123, 321, 231, .4);
+  margin: 10px 0;
+}
+
+.stateLabel {
+  padding: 6px;
+  border-radius: 6px;
+  font-size: 12px;
+  background: rgba(100,10,10,.8);
+  display: inline-block;
+  margin: 0 0 10px;
+  color: white;
+}
